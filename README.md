@@ -1,5 +1,5 @@
 <p align="center">
-Zelus a virtual challenge fitness app with multiplayer functionality
+🦭 big fan of seals 🦭
 </p>
 
 <p>
