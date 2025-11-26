@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=ZeroMetrics&fontSize=48&fontAlign=50&fontColor=FF0000&font=Righteous" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=120&section=header&text=ZeroMetrics&fontSize=48&fontAlign=50&fontColor=FFD700&font=Orbitron" />
 </p>
 
 <p align="center">
 Zelus a virtual challenge fitness app with multiplayer functionality
 </p>
-
-
-
-Currently working on Zelus a virtual challenge fitness app with multiplayer functionality
 
 <p>
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A.svg?logo=react&logoColor=61DAFB" />
