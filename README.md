@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=120&section=header&text=ZeroMetrics&fontSize=60&fontAlign=50&fontColor=FFFFFF&font=Michroma" />
+  <img src="https://raw.githubusercontent.com/ZeroMetrics/ZeroMetrics-assets/main/headers/zerometrics-michroma.svg" width="600">
 </p>
-
 
 <p align="center">
 Zelus a virtual challenge fitness app with multiplayer functionality
