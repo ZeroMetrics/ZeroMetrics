@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=120&section=header&text=ZeroMetrics&fontSize=48&fontAlign=50&fontColor=FFD700" />
+</p>
+
+<p align="center">
+  Building structured systems, virtual challenge platforms, and high-integrity tools.
+</p>
+
+---
+
+
 Currently working on Zelus a virtual challenge fitness app with multiplayer functionality
 
 <p>
