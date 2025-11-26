@@ -6,7 +6,8 @@
   Building structured systems, virtual challenge platforms, and high-integrity tools.
 </p>
 
----
+<p align="center"><img src="https://img.shields.io/badge/—-111111?style=for-the-badge&labelColor=111111&color=111111"></p>
+
 
 
 Currently working on Zelus a virtual challenge fitness app with multiplayer functionality
