@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeroMetrics/ZeroMetrics-assets/main/headers/zerometrics-michroma.svg" width="600">
-</p>
-
-<p align="center">
 Zelus a virtual challenge fitness app with multiplayer functionality
 </p>
 
