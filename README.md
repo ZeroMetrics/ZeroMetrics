@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=120&section=header&text=ZeroMetrics&fontSize=48&fontAlign=50&fontColor=FFD700&font=Orbitron" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=120&section=header&text=ZeroMetrics&fontSize=60&fontAlign=50&fontColor=FFFFFF&font=Michroma" />
 </p>
+
 
 <p align="center">
 Zelus a virtual challenge fitness app with multiplayer functionality
