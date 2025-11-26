@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=120&section=header&text=ZeroMetrics&fontSize=48&fontAlign=50&fontColor=FFD700" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=ZeroMetrics&fontSize=48&fontAlign=50&fontColor=FF0000&font=Righteous" />
 </p>
 
 <p align="center">
-  Building structured systems, virtual challenge platforms, and high-integrity tools.
+Zelus a virtual challenge fitness app with multiplayer functionality
 </p>
-
-<p align="center"><img src="https://img.shields.io/badge/—-111111?style=for-the-badge&labelColor=111111&color=111111"></p>
 
 
 
